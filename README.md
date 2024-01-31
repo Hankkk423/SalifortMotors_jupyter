@@ -1,4 +1,4 @@
-# Solifort Motors: Employee Attrition Prediction
+# Salifort Motors: Employee Attrition Prediction
 
 ## Introduction
 
